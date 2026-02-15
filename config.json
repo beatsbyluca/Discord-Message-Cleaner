@@ -1,7 +1,5 @@
 {
-  "token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-  "target_user_id": 0,
+  "token": "XXXXXXXXXXXXXXXXXXXX",
+  "target_user_id": 1234567890,
   "command_prefix": "!"
 }
-
-
